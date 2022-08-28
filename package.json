@@ -8,6 +8,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
     "@supabase/supabase-js": "^1.35.6",
     "cypress": "^10.0.3",
     "next": "^12.1.5",
